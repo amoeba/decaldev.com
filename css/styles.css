@@ -84,6 +84,12 @@ header a:hover {
     color: #ddd;
   }
 
+  #download {
+    background-color: #888;
+    border: 1px solid #aaa;
+    color: #000;
+  }
+
   #download a,
   #download a:visited {
     color: #22f;
@@ -107,6 +113,12 @@ header a:hover {
   #tagline h1 a:visited{
     color: #000;
   }
+
+  #download {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    color: #222;
+  }
 }
 
 #tagline {
@@ -124,9 +136,6 @@ header a:hover {
 }
 
 #download {
-  background-color: #eee;
-  border: 1px solid #ccc;
-  color: #222;
   border-radius: 3px;
   padding: 0.5rem;
   text-align: center;
